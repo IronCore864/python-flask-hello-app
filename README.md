@@ -8,6 +8,10 @@
 
 'python3 -m unittest discover test'
 
+or CI status:
+
+https://github.com/IronCore864/python-flask-hello-app/commits/master
+
 # Docker
 
 ## Hub
