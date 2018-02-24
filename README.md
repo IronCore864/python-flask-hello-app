@@ -6,7 +6,7 @@
 
 # Test
 
-'python3 -m unittest discover test'
+`python3 -m unittest discover test`
 
 or CI status:
 
